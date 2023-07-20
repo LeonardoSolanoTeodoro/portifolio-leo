@@ -62,15 +62,15 @@ nav ul li a:hover{
     font-size: 15px;
     transition: .4s;
     text-decoration: none;
-    background-color: yellow;
-    border: 2px solid yellow;
+    background-color: blue;
+    border: 2px solid blue;
 }
 
 .btn:hover{
     transform: scale(1.4);
     cursor: pointer;
     background-color: transparent;
-    border: 2px solid yellow;
+    border: 2px solid blue;
     cursor: pointer;
     }
     
